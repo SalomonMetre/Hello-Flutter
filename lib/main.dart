@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-num addNumbers(num a, num b) => a + b;
-
 void main(List<String> args) {
   runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
