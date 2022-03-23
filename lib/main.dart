@@ -1,4 +1,3 @@
-import 'dart:developer' show log;
 import 'package:flutter/material.dart';
 
 num addNumbers(num a, num b) => a + b;
